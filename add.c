@@ -3,7 +3,6 @@
 
 void func()
 {
-	blackbox();
 }
 int main(void)
 {
